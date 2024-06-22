@@ -1,0 +1,11 @@
+# gitignore setup as whitelist
+* 
+!*/ 
+
+#allowed files
+!.gitignore
+!README.md
+!LICENSE
+
+
+!hounin_duo.h3t
